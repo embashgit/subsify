@@ -3,11 +3,10 @@ Subscription Management Tool, reflecting its core functionality of simplifying s
 
 
 ## **Technologies Used**
-QueueWise leverages the following technologies to deliver a robust and scalable solution:  
+Subsify leverages the following technologies to deliver a robust and scalable solution:  
 - **Next.js**: For server-side rendering and optimized web performance.  
 - **TypeScript**: Ensuring type safety and maintainability of the codebase.  
-- **WebSockets**: For real-time updates to queue statuses.  
-- **PostgreSQL**: A reliable and scalable relational database for storing queue data.  
+- **PostgreSQL**: A reliable and scalable relational database for storing data.  
 - **Responsive Design**: Ensures the application works seamlessly across devices.  
 
 ---
@@ -50,5 +49,5 @@ yarn dev
 ### Acknowledgments
 
  **Special thanks to:**
-- [Ibrahim Muhammad Bashir](https://github.com/embashgit): Primary contributor and developer of QueueWise.
+- [Ibrahim Muhammad Bashir](https://github.com/embashgit): Primary contributor and developer of Subsify.
 - [Oezdemir Cetin]: For invaluable guidance, mentorship, and constructive feedback during the development process and Software engineering course in general.
